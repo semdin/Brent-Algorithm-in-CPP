@@ -1,9 +1,9 @@
 # Brent-Algorithm-in-CPP
 
 
-<p align="center">
-ASSIGNMENT 1
-</p>
+<p align="center"><b><h2>
+BRENT ALGORITHM USAGE
+  </h2></b></p>
 
 
 <b>Your task is to write a class which stores numbers using Brent’s Method. You are
