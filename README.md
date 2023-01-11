@@ -1,5 +1,3 @@
-# Brent-Algorithm-in-CPP
-
 
 <h2><p align="center"><b>
 BRENT ALGORITHM USAGE
