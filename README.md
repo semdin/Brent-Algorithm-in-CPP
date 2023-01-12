@@ -35,3 +35,24 @@ keys inside the hash table, and divide it by the number of valid entries.
   
 Important: Use imin when selecting which entry to move if there are multiple
 minimum i+j<s.</b>
+
+
+<h2><p align="center"><b>
+TO USE PROGRAM
+  </b></p></h2>
+  
+  You should compile both main.cpp and brent.cpp
+  If you have C/C++ compiler in your computer. You can use below code in your Terminal as well.
+  
+  ```
+  g++ main.cpp brent.cpp
+  
+  ```
+  Then, you will get "a.out" file.
+  Finally you can use below command in your Terminal and you will get the output.
+  
+  ```
+  .\a.out
+  ```
+  
+  
